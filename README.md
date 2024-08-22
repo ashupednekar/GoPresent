@@ -8,7 +8,9 @@ Installation and Usage
 
 #### (1) Use Present of go package
     $ go get -u -v golang.org/x/tools/cmd/present
-    $ go install golang.org/x/tools/cmd/present
+    > Or just install the binary
+    $ go install golang.org/x/tools/cmd/present@latest
+    > Get started
     $ git clone https://github.com/oneleo/GoPresent.git
     $ present
 
